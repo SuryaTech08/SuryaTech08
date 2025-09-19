@@ -1,51 +1,50 @@
-### 👋 Hi there, I'm Surya J
+👋 Hi there, I'm Surya J
 
-🎓 Information Technology Student | R.M.K. Engineering College (2022–2026)  
-💻 Passionate Full Stack Developer | Java, React.js, Firebase, MongoDB  
-
+🎓 Information Technology Student | R.M.K. Engineering College (2022–2026)
+💻 Passionate Frontend & Full Stack Developer | React.js,  Java, Node.js
 ---
 
 ### 🚀 Tech Stack
-- 💡 Languages: Java, HTML, CSS, Python, C
-- 🧩 Concepts: DSA, OOPS
+- 💡 Languages: Java, HTML, CSS,javascript
+- 🧩 Concepts:  OOPS
 - 🌐 Frontend: React.js
 - 🔧 Backend: Node.js, Express.js
-- 🗃 Databases: MongoDB, MySQL
-- ☁ Cloud: Firebase (Auth, Cloud Storage)
+- 🗃 Databases:  MySQL
+
 
 ---
 
 ### 🛠 Projects
-- Fashion Retail Web App (MERN Stack)  
-  E-commerce system with product management, Stripe & Razorpay integration.  
-- Smart Feedback System (React.js + Firebase)  
-  Real-time feedback with anonymous users and room codes.  
-- Online Turf Booking System (React.js + Firebase)  
-  Real-time turf availability checker with instant booking.
-- To-Do Task Manager with Analytics (MERN Stack)                                                                                                                                                 
- A feature-rich task management web app with login,daily tracking, notes, pie charts, and login graphs. 🔐 Login/Signup with JWT ·  
- 🗓 Daily Tracker · 📝 Notes · 📊 Pie + Bar Charts · ☁ MongoDB-based persistence.
+
+-- Cybernautix’25 (React.js + Firebase)
+👥 Team Project: Built responsive frontend of a symposium website with React.js.
+✨ Designed modern UI using Reactbits & Acternity UI.
+🔗 Integrated with Firebase backend for real-time event & registration updates.
+
+-- Field2Door (React.js + Gemini AI)
+Subscription-based platform for organic food delivery with AI-powered personalized recipe suggestions.
+
+-- Edu-Bridge (React.js + Node.js + Express.js + MySQL)
+Virtual learning platform with quizzes, forums, and classroom features inspired by Google Classroom & Meet.
   
 
 ---
 
-### 🏆 Achievements
-- 🧠 1100+ Coding Problems Solved on SkillRack  
-- 🏅 Gold Badges in Java & SQL on HackerRank  
+
 
 
 ### 💼 Experience
-- MERN Stack Intern – CODEC Technologies Pvt. Ltd. (May–Jul 2025)  
-- Learned core computer vision conceptsusing Mask R-CNN and Faster R-CNN* – JIO Platforms  (June -July 2024)
+
+MERN Stack Intern – CODEC Technologies Pvt. Ltd. (May–Jul 2025)
+
+Frontend Intern – Trios Technologies (Jun–Aug 2024)
+
+Built responsive and user-friendly UIs using React.js
+
+Collaborated with backend team to integrate APIs & optimize UI
 
 ---
 
 ### 📜 Certifications
-- ISTE - National Level(2023 and 2024)
+- SQL (Basic) – HackerRank
 - Java developer(Infosys Spring Board)
-
----
-
-### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/govardhan45/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/govardhan6302310410)
