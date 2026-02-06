@@ -8,7 +8,7 @@
 -  Languages: Java, HTML, CSS,javascript
 -  Concepts:  OOPS
 -  Frontend: React.js
--  Backend: Node.js, Express.js
+-  Backend: Node.js
 -  Databases:  MySQL
 
 
